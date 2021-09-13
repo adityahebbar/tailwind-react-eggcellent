@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Hero = () => (
   <div className="flex flex-col items-center justify-center h-screen">
-    <h1 className="text-5xl font-black uppercase md:text-7xl lg:text-9xl">
+    <h1 className="text-4xl font-black uppercase sm:text-5xl md:text-7xl lg:text-9xl">
       Eggcellent
     </h1>
     <Link
